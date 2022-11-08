@@ -24,3 +24,6 @@ siente como Python y al mismo tiempo proporciona un fácil acceso a C.
 Cython se sitúa entre el Python de alto nivel y el C de bajo nivel; uno podría
 llamarlo un lenguaje de programación “criollo”.
 
+## Toma de Rendimiento y Análisis
+
+A continuación se adjunta un documento en formato PDF con los resultados de las tomas de rendimiento realizadas, así como el análisis y las conclusiones generadas a partir de este.
